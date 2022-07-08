@@ -66,7 +66,7 @@ def main():
     if(check == True):
         print(f"You have been accepted, {name}.")
     else:
-         print(f"Sorry, You have been rejected, {name}.")
+         print(f"Sorry, {name}, You have been rejected.")
     ...
 
 
